@@ -1,0 +1,47 @@
+<!-- A copy of Campfire's app/src-tauri/icons/icon.svg. Reshape it there and copy it here; nothing generates one from the other. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#252A45"/>
+      <stop offset="1" stop-color="#131629"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#FFC35F"/>
+      <stop offset="0.42" stop-color="#FB8A38"/>
+      <stop offset="0.72" stop-color="#F1612F"/>
+      <stop offset="1" stop-color="#E14B2A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.5">
+      <stop offset="0" stop-color="#FFA24A" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#FF9A3E" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FF9A3E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="224" fill="url(#tile)"/>
+  <g transform="translate(0 -32)">
+    <circle cx="512" cy="470" r="470" fill="url(#glow)"/>
+    <rect x="332" y="862" width="360" height="56" rx="28" fill="#7E4C30" transform="rotate(-12 512 890)"/>
+    <rect x="332" y="862" width="360" height="56" rx="28" fill="#9A6240" transform="rotate(12 512 890)"/>
+    <path fill="url(#flame)" d="
+      M 297 575
+      C 297 484 330 428 390 394
+      C 420 376 436 348 442 314
+      C 452 356 470 388 494 400
+      C 522 336 534 266 552 196
+      C 558 262 602 322 655 378
+      C 703 428 727 498 727 575
+      C 727 692 634 785 512 785
+      C 480 785 452 781 428 774
+      C 402 800 372 832 336 856
+      C 346 812 347 766 356 724
+      C 322 688 297 636 297 575
+      Z"/>
+    <circle cx="630" cy="150" r="13" fill="#FFC65F"/>
+    <circle cx="676" cy="224" r="8" fill="#FFB449"/>
+    <g fill="#161A30">
+      <circle cx="417" cy="612" r="36"/>
+      <circle cx="512" cy="612" r="36"/>
+      <circle cx="607" cy="612" r="36"/>
+    </g>
+  </g>
+</svg>
