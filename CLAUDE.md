@@ -19,10 +19,13 @@ that narrates.
   visitor. Until it is public the landing links to `campfire.red`, X and
   the mailbox only; the day it opens, Download, Host your own and How it
   works replace them (Organization `TODO.md`, "The org").
-- **The picture is a copy.** `profile/icon.svg` mirrors Campfire's
-  `app/src-tauri/icons/icon.svg`; a reshape happens there and is copied
-  here. The README references it by its raw URL, which renders on the org
-  page and on the repo page alike.
+- **The pictures are copies.** `profile/icon.svg` mirrors Campfire's
+  `app/src-tauri/icons/icon.svg`, and `profile/badges/` its
+  `assets/badges/` — every badge but the license one, which stays off the
+  landing while the license is a draft. A reshape or a regen happens there
+  and is copied here. The README references them by raw URL, which renders
+  on the org page and on the repo page alike. The badges carry no link into
+  the app repo; only iroh's links out, to iroh.computer.
 - **`SECURITY.md` is the default, not Campfire's.** Campfire's own policy
   covers the product; this one covers the website, this repo and the org's
   files. Keep the two from contradicting each other: the same mailbox, the
