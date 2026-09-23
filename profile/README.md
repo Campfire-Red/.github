@@ -33,3 +33,7 @@ In private testing. The first public release lands on
 [campfire.red](https://campfire.red) ·
 [@campfire_red](https://x.com/campfire_red) ·
 [we@campfire.red](mailto:we@campfire.red)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Campfire-Red/.github/main/profile/banner.webp" alt="The Campfire flame drawn from red-orange voice lines glowing on black, one white-hot line running through it" width="100%">
+</p>

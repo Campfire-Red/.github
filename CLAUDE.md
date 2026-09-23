@@ -22,12 +22,13 @@ that narrates.
 - **The pictures are copies.** `profile/icon.svg` and `icon-dark.svg` are
   the `Organization` repo's logo kit's `icon-signal.svg` and
   `icon-neon.svg`, which the landing swaps with the reader's colour scheme,
-  and `profile/badges/` mirrors Campfire's `assets/badges/` — every badge
-  but the license one, which stays off the landing while the license is a
-  draft. A reshape or a regen happens at the source and is copied here. The
-  README references them by raw URL, which renders on the org page and on
-  the repo page alike. The badges carry no link into the app repo; only
-  iroh's links out, to iroh.computer.
+  `profile/banner.webp` mirrors Campfire's `assets/banner.webp`, and
+  `profile/badges/` its `assets/badges/` — every badge but the license one,
+  which stays off the landing while the license is a draft. A reshape or a
+  regen happens at the source and is copied here. The README references them
+  by raw URL, which renders on the org page and on the repo page alike. The
+  badges carry no link into the app repo; only iroh's links out, to
+  iroh.computer.
 - **`SECURITY.md` is the default, not Campfire's.** Campfire's own policy
   covers the product; this one covers the website, this repo and the org's
   files. Keep the two from contradicting each other: the same mailbox, the
