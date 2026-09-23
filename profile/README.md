@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Campfire-Red/.github/main/profile/icon.svg" alt="Campfire icon" width="128">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Campfire-Red/.github/main/profile/icon-dark.svg">
+    <img src="https://raw.githubusercontent.com/Campfire-Red/.github/main/profile/icon.svg" alt="Campfire icon" width="128">
+  </picture>
 </p>
 
 <h1 align="center">Campfire</h1>
