@@ -4,7 +4,7 @@
 
 <h1 align="center">Campfire</h1>
 
-<p align="center"><strong>Chat for the people who'd rather run the server than rent one.</strong></p>
+<p align="center"><strong>What's said around the fire stays around the fire.</strong></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Campfire-Red/.github/main/profile/badges/e2ee.svg" alt="E2EE: MLS + SFrame" height="28">
@@ -19,9 +19,10 @@
 
 Campfire is voice and text chat that travels between your machines, encrypted
 end to end and relayed by one of you — never stored on anyone else's server.
-One small native app for every setup: a room on your laptop, at the LAN party,
-in the event hall, on a rented server, kept open by a bot. Anyone can host. No
-account needed, no telemetry, nothing stored. Built in Rust.
+One small native app for any group that talks: friends, a family, a club, a
+team, a whole company. A room on your laptop, in the office, at the
+clubhouse, on a rented server, kept open by a bot. Anyone can host. No account
+needed, no telemetry, nothing stored. Built in Rust.
 
 In private testing. The first public release lands on
 [campfire.red](https://campfire.red).
